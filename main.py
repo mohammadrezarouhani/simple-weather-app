@@ -46,8 +46,6 @@ class Weather:
 
 
 if __name__=='__main__':
-    app_id='d1eaa9f005392a6f2a8225051875a6d9'
-    city='Tonekabon,ir'
 
     while True:
         city=input("please enter the name of your city:\n      ")
